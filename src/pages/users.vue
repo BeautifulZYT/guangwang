@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Fuui'
+const appName = 'Emok'
 </script>
 
 <template>
